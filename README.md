@@ -1,2 +1,3 @@
 # Gimmick
-gimmick history
+[Only Scripts] Gimmick (Level-Gimmick/Obstacle == Environmental Interaction System)
+
