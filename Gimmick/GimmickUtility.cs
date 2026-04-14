@@ -64,7 +64,7 @@ namespace REIW
         
         
         ////////////////////////////////////////////////////////////////
-        /// Set Collider's Size as Mesh                              ///
+        /// Normalize Animation Curve                                ///
         /// ////////////////////////////////////////////////////////////
         /// <summary>
         /// Animation Curve의 Time, Value를 각각 0~1 사이로 정규화 
